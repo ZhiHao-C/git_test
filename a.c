@@ -56,5 +56,6 @@ int main(void)
 
 	usefuna(fun_a);
 	usefunb(fun_b,5);
+	printf("测试这是新添加的一行\n")；
 	return 1;
 }
